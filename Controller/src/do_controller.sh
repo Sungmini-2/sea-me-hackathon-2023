@@ -1,1 +1,1 @@
-VSOMEIP_CONFIGURATION=../json/vsomeip_client.json VSOMEIP_APPLICATION_NAME=client-sample ./controller
+VSOMEIP_CONFIGURATION=../json/encrypted_client.json VSOMEIP_APPLICATION_NAME=Hell-week-client ./controller
